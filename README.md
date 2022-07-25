@@ -15,3 +15,5 @@ use opencv once again to go through a premade dataset and find objects that it c
 to make a bounding box around the object and also declare what it is inside the box. The text to speech software, will then take that object name and output it through
 speakers.(You need usb speakers puggled into the jetson nano and then need to set it as your output device btw). This will be repeated until you are to press Ctrl + C.
 Thank you for listening to my what I have made for you. I hope you enjoy playing around with it!
+
+The only things I needed for this project is opencv and python3. Which come with the rest of the project. If opencv doesnt work try sudo installing it....
